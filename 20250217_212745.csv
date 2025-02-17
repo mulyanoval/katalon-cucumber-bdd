@@ -1,6 +1,0 @@
-Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
-TestSuite_Login,Chrome 133.0.6943.98,,,17-02-2025 21:27:55,17-02-2025 21:28:56,1m - 1.432s,PASSED
-,,,,,,,
-Test Cases/LoginFeature,Chrome 133.0.6943.98,,,17-02-2025 21:27:55,17-02-2025 21:28:55,59.738s,PASSED
-Start listener action : beforeTestCase,Chrome 133.0.6943.98,,,17-02-2025 21:27:55,17-02-2025 21:27:55,0.117s,PASSED
-"runFeatureFile(""Include/features/Login.feature"")",Chrome 133.0.6943.98,,,17-02-2025 21:27:55,17-02-2025 21:28:55,59.493s,PASSED
